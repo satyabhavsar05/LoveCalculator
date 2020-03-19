@@ -4,4 +4,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="input1">Enter First Name</string>
+    <string name="share_success_text">Result successfully shared</string>
+    <string name="newGame">New Game</string>
+    <string name="lastResult">Last Game Result</string>
 </resources>
